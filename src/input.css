@@ -10,5 +10,5 @@
   }
   
   .card {
-    @apply w-48 h-64 shadow-lg rounded-lg
+    @apply w-48 h-64 shadow-lg rounded-lg flex-none
   }
