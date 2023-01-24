@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .outline-black {
+      outline: 2px dotted black;
+      outline-offset: 2px;
+    }
+  }
+  
