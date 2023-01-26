@@ -10,5 +10,5 @@
   }
   
   .card {
-    @apply w-48 h-64 shadow-lg rounded-lg flex-none
+    @apply w-48 h-64 shadow-lg rounded-lg flex-none transform transition-all hover:-translate-y-4 hover:shadow-xl
   }
