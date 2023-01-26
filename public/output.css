@@ -787,6 +787,22 @@ select {
   background-image: url('./img/new_york.jpg');
 }
 
+.bg-yosemite {
+  background-image: url('./img/yosemite.jpg');
+}
+
+.bg-seattle {
+  background-image: url('./img/seattle.jpg');
+}
+
+.bg-switzerland {
+  background-image: url('./img/switzerland.jpg');
+}
+
+.bg-sydney {
+  background-image: url('./img/sydney.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
